@@ -19,4 +19,20 @@ AMIRA is a project aimed at developing AI models to assist in the clinical diagn
 
 ### Ear imagery Dataset
 
+A clinical study was conducted in collaboration with specialists from the Department of Otorhinolaryngology of the Clinical Hospital from Universidad de Chile and the Advance Center for Electrical and Electronic Engineering.
+
+
+#### Data Collection
+
+- **Digital otoscope:** DE500 Firefly
+- **Resolution:** 640×480 pixels
+- **Frame Rate:** 20 frames per second (fps)
+- **Region of Interest:** Eardrum region cropped to 420×380 pixels
+
+#### Ethical Considerations
+
+- **Ethical Approval:** The dataset creation followed approved ethical guidelines.
+- **Consent:** All participants provided informed consent for their data to be used in the study.
+
+
 
