@@ -34,5 +34,13 @@ A clinical study was conducted in collaboration with specialists from the Depart
 - **Ethical Approval:** The dataset creation followed approved ethical guidelines.
 - **Consent:** All participants provided informed consent for their data to be used in the study.
 
+#### Journal Papers
+
+- Viscaino M., Maass J.C., Délano P.H., Torrente M., Stott C., Auat Cheein F. (2020). Computer-aided diagnosis of external and middle ear conditions: A machine learning approach. PLoS ONE 15(3):e0229226. DOI: 10.1371/journal.pone.0229226.
+- Viscaino, M., Maass, J. C., Délano, P. H., & Auat Cheein, F. (2021). Computer-aided Ear Diagnosis System based on CNN-LSTM Hybrid Learning Framework for Video Otoscopy Examination. IEEE Access vol. 9, pp. 161292-161304. DOI: 10.1109/ACCESS.2021.3132133
+- Viscaino, M., Talamilla, M., Maass, J. C., Henríquez, P., Délano, P. H., Auat Cheein, C., & Auat Cheein, F. (2022). Color Dependence Analysis in a CNN-Based Computer-Aided Diagnosis System for Middle and External Ear Diseases. Diagnostics, 12(4), 917. DOI: 10.3390/diagnostics12040917 
+
+
+
 
 
